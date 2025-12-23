@@ -1,47 +1,55 @@
-# Hi 👋, I'm Jishu  
-### Python Learner | Web Development Beginner
+<h1 align="center">Hi 👋, I'm Jishu</h1>
+<h3 align="center">Python Learner • Programming • Web Fundamentals</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🐍 Learning Python through practice and small programs  
-- 🌐 Learning basic web development (HTML, CSS, beginner JS)  
+- 🐍 Learning Python through regular practice  
+- 💻 Working with Python & C programming fundamentals  
+- 🌐 Exploring HTML, CSS, and basic JavaScript  
+- 🗄️ Learning basic database queries (CRUD concepts)  
 - 🧠 Improving logic and problem-solving step by step  
-- 📘 Interested in building simple and useful projects  
-- 🔁 Believe in learning consistently, not rushing
+- 📘 Building small and simple projects  
 
 ---
 
-## 🛠️ What I Know (Basics)
-- Python (syntax, loops, functions, basic logic)
-- HTML5
-- CSS3
-- Basic JavaScript
-- Git & GitHub (basic usage)
-
----
-
-## 📚 Currently Learning
-- Python problem solving
-- Writing clean and readable code
-- How frontend and backend connect
-- Small web + Python projects
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,mysql" />
+</p>
 
 ---
 
 ## 📂 What You’ll Find Here
-- Python practice codes  
-- Beginner-friendly examples  
-- Learning experiments  
-- Notes & small projects  
+- Practice programs  
+- Simple examples  
+- Learning notes  
+- Small projects  
 
 ---
 
-## 🌱 Interests
-- Python programming  
-- Web development  
-- Automation & bots (learning phase)  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jishuDevX&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jishuDevX&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishuDevX&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-⭐ *Learning every day, one step at a time.*
+## 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jishuDevX&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+⭐ Learning every day, one step at a time.
+</p>
